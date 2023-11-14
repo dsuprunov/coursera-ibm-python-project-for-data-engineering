@@ -1,0 +1,8 @@
+2023-11-14 23:42:06.420562: Preliminaries complete. Initiating ETL process
+2023-11-14 23:42:08.066672: Data extraction complete. Initiating Transformation process
+2023-11-14 23:42:08.173673: Data transformation complete. Initiating Loading process
+2023-11-14 23:42:08.175672: Data saved to CSV file
+2023-11-14 23:42:08.198673: Data loaded to Database as a table, Executing queries
+2023-11-14 23:42:08.198673: Process Complete
+2023-11-14 23:42:08.206677: Process Complete
+2023-11-14 23:42:08.207673: Process Complete
